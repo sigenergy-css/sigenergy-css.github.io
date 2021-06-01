@@ -20,7 +20,9 @@ The workshop aims to provide a vibrant venue for researchers in ACM SIGENERGY an
 ## Program
 ---
 
-The workshop is designed to feature invited talks and a panel discussion. Each talk will be 35 minutes long, followed by 8 minute Q&A. The panel discussion will last for an hour. 
+The workshop is designed to feature invited talks and a panel discussion. 
+Each talk will be 35 minutes long, followed by 8 minute Q&A. 
+The panel discussion will last for an hour. 
 
 TBD
 
@@ -34,8 +36,8 @@ TBD
 ---
 
 **Organizers:** 
-- Srinivasan Keshav  ()
-- Prashant Shenoy  ()
+- Srinivasan Keshav  (University of Cambridge)
+- Prashant Shenoy  (University of Massachusetts)
 - Minghua Chen  (City University of Hong Kong)
 
 **Technique Support:** 
