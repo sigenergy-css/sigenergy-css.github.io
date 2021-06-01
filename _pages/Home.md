@@ -16,6 +16,8 @@ The workshop aims to provide a vibrant venue for researchers in ACM SIGENERGY an
 
 **Location:** The workshop will be held online (platform TBD)
 
+**Registration:** Please register through this [link](https://energy.acm.org/conferences/eenergy/2021/registration.php).
+
 
 ## Program
 ---
@@ -26,22 +28,24 @@ The panel discussion will last for an hour.
 
 TBD
 
-
-## Registration
----
-
-TBD
-
 ## Committee
 ---
 
 **Organizers:** 
-- Srinivasan Keshav  (University of Cambridge)
-- Prashant Shenoy  (University of Massachusetts)
-- Minghua Chen  (City University of Hong Kong)
+- Srinivasan Keshav
+(University of Cambridge,
+[sk818@cam.ac.uk](sk818@cam.ac.uk))
+- Prashant Shenoy
+(University of Massachusetts,
+[shenoy@cs.umass.edu](shenoy@cs.umass.edu))
+- Minghua Chen 
+(City University of Hong Kong, 
+[minghua.chen@cityu.edu.hk](minghua.chen@cityu.edu.hk))
 
-**Technique Support:** 
-- Junyan Su (City University of Hong Kong)
+**Web and zoom support:** 
+- Junyan Su 
+(City University of Hong Kong, 
+[junyan.su@my.cityu.edu.hk](junyan.su@my.cityu.edu.hk))
 
 
 
