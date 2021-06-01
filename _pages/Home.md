@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-description: In conjunction with <a href="#">ACM e-Energy 2021 conference</a>
+description: In conjunction with <a href="https://energy.acm.org/conferences/eenergy/2021/">ACM e-Energy 2021 conference</a>
 ---
 
 ## Description
