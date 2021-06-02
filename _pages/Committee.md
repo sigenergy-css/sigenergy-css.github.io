@@ -13,7 +13,7 @@ nav: true
 - Minghua Chen, City University of Hong Kong
 ([minghua.chen@cityu.edu.hk](minghua.chen@cityu.edu.hk))
 
-**Web and zoom support:** 
+**Web and ZOOM support:** 
 - Junyan Su, City University of Hong Kong
 ([junyan.su@my.cityu.edu.hk](junyan.su@my.cityu.edu.hk))
 
