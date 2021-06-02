@@ -1,6 +1,6 @@
 <header>
     <!-- Nav Bar -->
-    <div class="container">
+    <div style="padding: 20px;" class="container">
         {% if page.title != "about" %}
             <a class="navbar-brand title font-weight-lighter" 
                 href="{{ site.baseurl | prepend: site.url }}/">
@@ -11,6 +11,8 @@
                     {{ site.title }}
                 {% endif %}
             </a>
+            <br>
+            
         {% elsif site.enable_navbar_social %}
           <!-- Social Icons -->
           <div class="navbar-brand social">
