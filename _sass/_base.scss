@@ -86,7 +86,7 @@ a, table.table a {
   box-shadow: none;
   border-bottom: 1px solid $grey-color-light;
   //background-color: var(--global-bg-color);
-  background-color: rgb(216, 243, 226);
+  background-color: rgb(0, 50, 98);
   opacity: 0.95;
 }
 .navbar.navbar-light {
@@ -100,17 +100,17 @@ a, table.table a {
   }
   .navbar-nav .nav-item .nav-link {
     font-weight: 400;
-    color: var(--global-text-color);
+    color: white;
     &:hover {
-      color: var(--global-hover-color);
+      color: rgb(253, 181, 21);
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bolder;
-      color: var(--global-theme-color);
+      color : rgb(253, 181, 21);
       &:hover {
-        color: var(--global-hover-color);
+        color : rgb(253, 181, 21);
       }
   }
   .navbar-brand.social {
