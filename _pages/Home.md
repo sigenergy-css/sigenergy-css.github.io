@@ -6,7 +6,7 @@ permalink: /
 ---
 The first ACM SIGEnergy Workshop on Climate, Sustainability, and Society will be held in conjunction with 
 [ACM e-Energy 2021 conference](https://energy.acm.org/conferences/eenergy/2021/). 
-Information about the newly established ACM SIGENERGY special interest group can be found at [https://energy.acm.org/](https://energy.acm.org/).
+Information about the newly established ACM SIGEnergy special interest group can be found at [https://energy.acm.org/](https://energy.acm.org/).
 
 The workshop aims to provide a vibrant venue for researchers in ACM SIGEnergy and other communities to discuss the challenges and opportunities in the intersection of climate change, sustainability, and society. While issues within each of the three areas are of great interest on their own, we believe it is essential to look at the dynamic interplay among the three disciplines.
 
