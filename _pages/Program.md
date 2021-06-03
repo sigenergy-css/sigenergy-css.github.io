@@ -10,3 +10,29 @@ Each talk will be 40 minutes long, followed by 5 minute Q&A.
 The panel discussion will last for an hour. 
 
 More details about the speakers, talks, and panel discussion will be available soon.
+
+
+{% for item in site.data.authors %}
+
+<img class="author-img" src="/assets/img/{{item.img}}">
+
+<!-- 
+**{{ item.name }}**
+
+**Title:** {{ item.title}} 
+
+
+**Abstract:** {{ item.abstract}} 
+
+**Bio:**    {{ item.bio }} 
+-->
+
+<div class="author-container">
+<p class="author-name"> <strong> {{ item.name }}  </strong>   </p>
+<p>  <strong> Title: </strong>  {{ item.title}}   </p>
+<p> <strong> Abstract: </strong>  {{ item.abstract}}   </p>
+<p> <strong> Bio: </strong>    {{ item.bio }}   </p>
+</div>
+
+
+{% endfor %}

@@ -505,3 +505,26 @@ html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
 }
+
+
+// added by Junyan Su
+
+.author-img {
+    float: right;
+    width: 140px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.author-container {
+    background-color: rgb(252, 252, 252);
+    padding: 10px;
+    //border: 1px solid;
+    box-shadow: 0px 1px 4px #999;
+}
+
+.author-name {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: large;
+}
