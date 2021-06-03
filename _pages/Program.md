@@ -9,8 +9,6 @@ The workshop features invited talks and a panel discussion.
 Each talk will be 40 minutes long, followed by 5 minute Q&A. 
 The panel discussion will last for an hour. 
 
-More details about the speakers, talks, and panel discussion will be available soon.
-
 
 {% for item in site.data.authors %}
 
@@ -20,7 +18,6 @@ More details about the speakers, talks, and panel discussion will be available s
 **{{ item.name }}**
 
 **Title:** {{ item.title}} 
-
 
 **Abstract:** {{ item.abstract}} 
 
@@ -34,5 +31,6 @@ More details about the speakers, talks, and panel discussion will be available s
 <p> <strong> Bio: </strong>    {{ item.bio }}   </p>
 </div>
 
-
 {% endfor %}
+
+<br> More details about the speakers, talks, and panel discussion will be available soon.
