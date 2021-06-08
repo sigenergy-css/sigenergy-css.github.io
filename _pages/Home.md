@@ -22,6 +22,10 @@ The panel discussion will last for an hour.
 - Invited talk: "Computing, Limits, and Society" by Jay Chen, 
 International Computer Science Institute, UC Berkeley
 
+- Invited talk by George Porter, University of California San Diego, title to be announced.
+
+- Invited talk by David Rolnick, Mcgill University, title to be announced.
+
 More details about the speakers, talks, 
 and panel discussion will be available soon.
 

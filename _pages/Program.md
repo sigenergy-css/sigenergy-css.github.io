@@ -12,7 +12,7 @@ The panel discussion will last for an hour.
 
 {% for item in site.data.authors %}
 
-<img class="author-img" src="/assets/img/{{item.img}}">
+
 
 <!-- 
 **{{ item.name }}**
@@ -25,6 +25,9 @@ The panel discussion will last for an hour.
 -->
 
 <div class="author-container">
+{% if item.img %}
+<img class="author-img" src="/assets/img/{{item.img}}">
+{% endif %}
 <p class="author-name"> <strong> {{ item.name }}  </strong>   </p>
 <p>  <strong> Title: </strong>  {{ item.title}}   </p>
 <p> <strong> Abstract: </strong>  {{ item.abstract}}   </p>
