@@ -22,7 +22,7 @@ The panel discussion will last for an hour.
 - Invited talk: "Computing, Limits, and Society" by Jay Chen, 
 International Computer Science Institute, UC Berkeley
 
-- Invited talk by George Porter, University of California San Diego, title to be announced.
+- Invited talk: "How new kinds of computer networks can reduce the environmental impact of cloud computing" by George Porter, University of California San Diego 
 
 - Invited talk by David Rolnick, Mcgill University, title to be announced.
 

@@ -5,8 +5,8 @@
   img: jay.jpg
 
 - name: George Porter, University of California San Diego
-  title: TBA
-  abstract: TBA
+  title: How new kinds of computer networks can reduce the environmental impact of cloud computing
+  abstract: Computing underpins much of modern life.  Social media, entertainment, telepresence, video conferencing, smart cars, and the so-called "Internet of Things" are all enabled by cloud computing, hosted in large-scale Internet datacenters. These datacenters represent a large--and growing--customer of energy as part of their operations. In this talk, I'll describe the role that new types of computer networks can serve in reducing the energy demands of these datacenters as well as enabling cloud computing applications to take increasing advantage of renewable carbon-free power sources. This talk will also describe how the impact of cloud computing on the environment was incorproated into a new undergraduate course offering at UC San Diego focusing on the environmental impact of modern computing systems.
   bio:  George Porter is an Associate Professor in the Systems and Networking Group in the Department of Computer Science and Engineering at the University of California, San Diego.
   img: porter.jpg
 
