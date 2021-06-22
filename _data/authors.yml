@@ -11,8 +11,8 @@
   img: porter.jpg
 
 - name: David Rolnick, Mcgill University
-  title: TBA
-  abstract: TBA
-  bio: David Rolnick is an Assistant Professor and Canada CIFAR AI Chair in the School of Computer Science at McGill University and at Mila.
+  title: Tackling Climate Change with Machine Learning
+  abstract: Machine learning and AI have seen great advances in recent years and are increasingly being applied across society. In this talk, we will see how machine learning can be a powerful tool in helping reduce greenhouse gas emissions and adapt to a changing climate. From grid optimization to resilient infrastructure, we will explore high impact problems where existing gaps can be filled by machine learning. We will also consider common pitfalls and broader societal considerations involved in working within this space.
+  bio: David Rolnick is Assistant Professor and Canada CIFAR AI Chair in the School of Computer Science at McGill University and at the Mila Quebec AI Institute. He is a co-founder and chair of Climate Change AI and serves as scientific co-director of Sustainability in the Digital Age. Dr. Rolnick has also worked at Google and DeepMind, and is a former NSF Mathematical Sciences Postdoctoral Research Fellow, NSF Graduate Research Fellow, and Fulbright Scholar. He received his Ph.D. in Applied Mathematics from MIT.
   img: david.jpg
  

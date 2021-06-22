@@ -36,4 +36,7 @@ The panel discussion will last for an hour.
 
 {% endfor %}
 
-<br> More details about the speakers, talks, and panel discussion will be available soon.
+<br> 
+<!-- 
+More details about the speakers, talks, and panel discussion will be available soon.
+-->

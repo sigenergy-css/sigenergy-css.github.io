@@ -24,10 +24,8 @@ International Computer Science Institute, UC Berkeley
 
 - Invited talk: "How new kinds of computer networks can reduce the environmental impact of cloud computing" by George Porter, University of California San Diego 
 
-- Invited talk by David Rolnick, Mcgill University, title to be announced.
+- Invited talk: "Tackling Climate Change with Machine Learning" by David Rolnick, Mcgill University.
 
-More details about the speakers, talks, 
-and panel discussion will be available soon.
 
 
 
