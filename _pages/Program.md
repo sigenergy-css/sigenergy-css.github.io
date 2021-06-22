@@ -5,14 +5,19 @@ permalink: /program
 nav: true
 ---
 
-The workshop features invited talks and a panel discussion. 
+
+<!-- The workshop features invited talks and a panel discussion. 
 Each talk will be 40 minutes long, followed by 5 minute Q&A. 
 The panel discussion will last for an hour. 
+-->
 
+{% include schedule_table.html %}
+
+---
+
+<br>
 
 {% for item in site.data.authors %}
-
-
 
 <!-- 
 **{{ item.name }}**
