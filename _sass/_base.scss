@@ -531,3 +531,25 @@ html.transition *:after {
     padding-bottom: 5px;
     font-size: large;
 }
+
+.schedule {
+	border:none;
+	border-collapse:collapse;
+	border-color:rgb(255, 255, 255);
+	border-spacing:0;
+	width: auto;
+	margin-bottom: 10px;
+}
+
+.schedule tr td {
+	//color:rgb(160, 80, 80);
+	overflow:hidden;
+	padding: 6px 13px;
+	word-break:normal;
+	display: table-cell;
+	
+}
+
+.schedule tr:nth-child(odd) {
+  	background-color: rgb(244, 247, 250);
+}

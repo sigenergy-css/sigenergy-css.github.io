@@ -16,7 +16,6 @@ The workshop aims to provide a vibrant venue for researchers in ACM SIGEnergy an
 
 **Program:**
 
-All time in Central European Summer Time (CEST), UTC+2.
 
 
 {% include schedule_table.html %}
