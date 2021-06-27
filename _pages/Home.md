@@ -12,7 +12,7 @@ The workshop aims to provide a vibrant venue for researchers in ACM SIGEnergy an
 
 **Time: June 28, 2:00 – 6:00 pm, Central European Summer Time** [(Other timezones)](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2021&month=6&day=28&hour=12&min=0&sec=0&p1=157&p2=136&p3=179&p4=236&p5=152&p6=137&p7=250)
 
-**Location:** The workshop will be held online via the [link](https://us02web.zoom.us/j/84001643765?pwd=dkJlNnl0dE4wSk9nSFExSzE3ZWhxQT09).
+**Location:** The workshop will be held online via the link: [https://us02web.zoom.us/j/84001643765?pwd=dkJlNnl0dE4wSk9nSFExSzE3ZWhxQT09](https://us02web.zoom.us/j/84001643765?pwd=dkJlNnl0dE4wSk9nSFExSzE3ZWhxQT09).
 
 **Program:**
 
