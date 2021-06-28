@@ -14,6 +14,7 @@ The workshop aims to provide a vibrant venue for researchers in ACM SIGEnergy an
 
 **Location:** The workshop will be held online via the link: [https://us02web.zoom.us/j/84001643765?pwd=dkJlNnl0dE4wSk9nSFExSzE3ZWhxQT09](https://us02web.zoom.us/j/84001643765?pwd=dkJlNnl0dE4wSk9nSFExSzE3ZWhxQT09).
 
+
 **Program:**
 
 {% include schedule_table.html %}
