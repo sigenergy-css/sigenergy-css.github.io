@@ -86,7 +86,7 @@ a, table.table a {
   box-shadow: none;
   border-bottom: 1px solid $grey-color-light;
   //background-color: var(--global-bg-color);
-  background-color: rgb(216, 243, 226);
+  background-color: rgb(0, 50, 98);
   opacity: 0.95;
 }
 .navbar.navbar-light {
@@ -100,17 +100,17 @@ a, table.table a {
   }
   .navbar-nav .nav-item .nav-link {
     font-weight: 400;
-    color: var(--global-text-color);
+    color: white;
     &:hover {
-      color: var(--global-hover-color);
+      color: rgb(253, 181, 21);
     }
   }
   .navbar-nav .nav-item.active>.nav-link {
       background-color: inherit;
       font-weight: bolder;
-      color: var(--global-theme-color);
+      color : rgb(253, 181, 21);
       &:hover {
-        color: var(--global-hover-color);
+        color : rgb(253, 181, 21);
       }
   }
   .navbar-brand.social {
@@ -504,4 +504,52 @@ html.transition *:before,
 html.transition *:after {
   transition: all 750ms !important;
   transition-delay: 0 !important;
+}
+
+
+// added by Junyan Su
+
+.author-img {
+    float: right;
+    width: 140px;
+    //height: 170px;
+    padding-right: 0px;
+    padding-top: 0px;
+    padding-left: 15px;
+}
+
+.author-container {
+    background-color: rgb(252, 252, 252);
+    padding: 10px;
+    margin-top: 15px;
+    //border: 1px solid;
+    box-shadow: 0px 1px 4px #999;
+}
+
+.author-name {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: large;
+}
+
+.schedule {
+	border:none;
+	border-collapse:collapse;
+	border-color:rgb(255, 255, 255);
+	border-spacing:0;
+	width: auto;
+	margin-bottom: 20px;
+}
+
+.schedule tr td {
+	//color:rgb(160, 80, 80);
+	overflow:hidden;
+	padding: 6px 13px;
+	word-break:normal;
+	display: table-cell;
+	
+}
+
+.schedule tr:nth-child(odd) {
+  	background-color: rgb(244, 247, 250);
 }
